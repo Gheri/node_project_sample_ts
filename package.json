@@ -2,9 +2,9 @@
   "name": "demo",
   "version": "1.0.0",
   "description": "demo",
-  "main": "dist/app.js",
+  "main": "dist/src/sum.js",
   "scripts": {
-    "start": "tsc && node dist/app.js",
+    "start": "tsc && node dist/src/app.js",
     "test": "jest"
   },
   "author": "",
